@@ -1,15 +1,15 @@
 
-# YakuzaXsilence
+# MatadorXsilence
 
 A high-performance, production-grade WhatsApp automation library built for reliability and scalability. YakuzaXsilence provides a robust abstraction layer over the Baileys protocol, ensuring seamless connectivity and advanced pairing mechanisms.
 
 ## Author
 
-**OmhcSilence**
+**KiyoraHost**
 
 ## Core Capabilities
 
-YakuzaXsilence is engineered to address common pain points in WhatsApp bot development, specifically session stability and authentication complexity. The library offers:
+MatadorXsilence is engineered to address common pain points in WhatsApp bot development, specifically session stability and authentication complexity. The library offers:
 
 - **Full Node.js Compatibility:** Explicit support for the latest Node.js versions (v18, v20, v22, and beyond) without dependency conflicts or native module warnings.
 - **Custom Pairing Interface:** A streamlined, programmable pairing method that bypasses QR code scanning, enabling deployment in headless server environments.
